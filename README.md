@@ -1,11 +1,8 @@
 ## Hi there 👋
 
-<h1 align="center">Hi 👋, I'm Gurvindar Singh</h1>
+<h1 align="center">I'm Gurvindar Singh</h1>
 <h3 align="center">A passionate AI & ML || Web-3 || Cloud || Devops and Web developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=gscoder27&label=Profile%20views&color=0e75b6&style=flat" alt="gscoder27" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gscoder27" alt="gscoder27" /></a> </p>
 
 - 🌱 I’m currently learning **machine Learning and more on web development**
 
