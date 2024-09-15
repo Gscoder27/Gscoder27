@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi!!.. there 👋
 
 <h1 align="center">I'm Gurvindar Singh</h1>
 <h3 align="center">A passionate AI & ML || Web-3 || Cloud || Devops and Web developer from India</h3>
