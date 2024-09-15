@@ -17,7 +17,7 @@
 
 <h3 align="left">Languages and Tools:</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=js,ts,react,nextjs,vuejs,python,opencv,tensorflow,nodejs,tailwind,mongo,django,mysql,sql,java,express,postgres,prisma,html,css,docker,aws,cpp,c,git,vscode,figma)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,ts,react,nextjs,vuejs,python,opencv,tensorflow,nodejs,tailwind,mongo,django,mysql,java,express,postgres,prisma,html,css,docker,aws,cpp,c,git,vscode,figma)](https://skillicons.dev)
 
 <div align="center"> 
   
