@@ -1,3 +1,6 @@
+
+![logo](https://github.com/Gscoder27/Gscoder27/blob/main/My_animatedimg.jpeg)
+
 ## Hi!!.. there 👋
 
 <h1 align="center">I'm Gurvindar Singh</h1>
