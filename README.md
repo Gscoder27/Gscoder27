@@ -8,7 +8,7 @@
 
 - 📫 How to reach me -: **gurvindars698@gmail.com**
   
-<img align="right" alt="coding" width="200" src="https://mir-s3-cdn-cf.behance.net/project_modules/fs/eef76b143584307.627d06916ce10.gif">
+<img align="right" alt="coding" width="400" height="200" src="https://mir-s3-cdn-cf.behance.net/project_modules/fs/eef76b143584307.627d06916ce10.gif">
 </img>
 <br/><br/><br/>
 <br/>
