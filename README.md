@@ -16,10 +16,6 @@
 </p>
 <br/>
 
-<video width="640" height="480" controls>
-  <source src="C:\Users\Gurvindar\Downloads" type="video/mp4">
-</video>
-
 
 
 <h3 align="left">Languages and Tools:</h3>
