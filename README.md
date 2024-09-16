@@ -16,8 +16,7 @@
 </p>
 <br/>
 
-<img align="right" alt="coding" width="400">
-    <source src="https://mir-s3-cdn-cf.behance.net/project_modules/fs/eef76b143584307.627d06916ce10.gif" type="video/mp4">
+<img align="right" alt="coding" width="400" src="https://mir-s3-cdn-cf.behance.net/project_modules/fs/eef76b143584307.627d06916ce10.gif">
 </img>
 
 
