@@ -14,6 +14,11 @@
 <a href="https://instagram.com/gurvindar_singh_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="gurvindar_singh_" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/gurvindar_singh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="gurvindar_singh" height="30" width="40" /></a>
 </p>
+<br/>
+
+https://github.com/user-attachments/assets/cdaa3dbe-9df6-4f6a-9dd9-acd33389abd5
+
+
 
 <h3 align="left">Languages and Tools:</h3>
 
