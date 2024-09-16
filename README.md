@@ -1,5 +1,5 @@
 
-![logo](https://github.com/Gscoder27/Gscoder27/blob/main/Me_animated_code.jpg)
+![logo](https://github.com/Gscoder27/Gscoder27/blob/main/My_animated.jpg)
 
 ## Hi!!.. there 👋
 
