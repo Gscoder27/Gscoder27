@@ -7,6 +7,11 @@
 - 🌱 I’m currently learning **machine Learning and more on web development**
 
 - 📫 How to reach me -: **gurvindars698@gmail.com**
+  
+<img align="right" alt="coding" width="400" src="https://mir-s3-cdn-cf.behance.net/project_modules/fs/eef76b143584307.627d06916ce10.gif">
+</img>
+<br/><br/><br/>
+<br/>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
