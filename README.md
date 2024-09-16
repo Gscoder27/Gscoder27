@@ -44,13 +44,7 @@
 <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gscoder27&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
 <p> </p>
 </div>
-
-  <br/>
-
-<br/><br/>
-
-
-
+<br/>
 <!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=gscoder27&show_icons=true&locale=en&layout=compact" alt="gscoder27" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gscoder27&show_icons=true&locale=en" alt="gscoder27" /></p>
